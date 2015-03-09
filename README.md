@@ -14,4 +14,4 @@ You can also specify the location of the XML-RPC server by altering the `client.
 
 Server side
 -------
-The server side is stored in the `rpusec_xmlrpc` folder. Copy that folder into your `htdocs` folder of your environment that runs Apache web server. 
+The server side is stored in the `rpusec_xmlrpc` folder. Copy that folder into your `htdocs` directory of your environment that runs the Apache web server (since the XML-RPC directory defaults to `http://localhost/rpusec_xmlrpc`). 
